@@ -15,3 +15,5 @@ Profesor: Fabian Peña.
 <p align="center">
     :page_facing_up: TALLER 2
 </p>
+
+Video:
